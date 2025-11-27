@@ -99,3 +99,18 @@ YouTrack:
 Sprint: 4  
 Planned release: 0.3.0 (Loyalty and reviews)  
 Git branch: `feature/history-bonuses-reviews`
+
+## Feature: Admin panel (FR19, FR20, FR21)
+
+Scope:
+- FR19 – admin authentication.
+- FR20 – catalog management (CRUD for products, categories, prices).
+- FR21 – order management (statuses, problem orders, refunds).
+
+YouTrack:
+- Epics: KUP-11 (Admin auth), KUP-12 (Catalog management), KUP-13 (Order management).
+- Tasks: KUP-90..KUP-109 – admin UI, permissions, audit logging.
+
+Sprint: 5  
+Planned release: 1.0.0 (Production)  
+Git branch: `feature/admin-panel`
