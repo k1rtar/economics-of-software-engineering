@@ -67,3 +67,19 @@ YouTrack:
 Sprint: 2  
 Planned release: 0.1.0 (MVP)  
 Git branch: `feature/product-checkout`
+
+## Feature: Delivery and external services (FR9, FR14, FR16, FR17)
+
+Scope:
+- FR9 – instant delivery / account top-up after payment.
+- FR14 – Steam wallet top-up.
+- FR16 – gift cards for digital goods.
+- FR17 – payments for international services and subscriptions.
+
+YouTrack:
+- Epics: KUP-7 (Instant delivery), KUP-8 (External services).
+- Tasks: KUP-50..KUP-69 – integration with external providers, error handling.
+
+Sprint: 3  
+Planned release: 0.2.0 (External services)  
+Git branch: `feature/delivery-external`
