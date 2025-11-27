@@ -36,3 +36,18 @@ YouTrack:
 Sprint: 1  
 Planned release: 0.1.0 (MVP)  
 Git branch: `feature/catalog-search`
+
+## Feature: Authentication and profile (FR3, FR4)
+
+Scope:
+- FR3 – login via VK and Telegram (social auth).
+- FR4 – user profile page with personal data and quick access to purchase history.
+
+YouTrack:
+- Epics: KUP-3 (Social login), KUP-4 (Profile).
+- Tasks: KUP-20..KUP-29 – OAuth integration, sessions, profile UI.
+
+Sprint: 1  
+Planned release: 0.1.0 (MVP)  
+Git branch: `feature/auth-profile`
+
