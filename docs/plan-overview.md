@@ -83,3 +83,19 @@ YouTrack:
 Sprint: 3  
 Planned release: 0.2.0 (External services)  
 Git branch: `feature/delivery-external`
+
+## Feature: History, bonuses, reviews, notifications (FR10, FR11, FR13, FR15)
+
+Scope:
+- FR10 – order history page.
+- FR11 – bonuses / cashback accumulation and spending.
+- FR13 – product reviews and ratings.
+- FR15 – notifications about order status and promotions.
+
+YouTrack:
+- Epics: KUP-9 (Loyalty program), KUP-10 (Reviews and notifications).
+- Tasks: KUP-70..KUP-89 – loyalty logic, review moderation, notification templates.
+
+Sprint: 4  
+Planned release: 0.3.0 (Loyalty and reviews)  
+Git branch: `feature/history-bonuses-reviews`
