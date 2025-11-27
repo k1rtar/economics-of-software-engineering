@@ -21,3 +21,18 @@ Each block corresponds to a feature branch and a set of YouTrack issues.
 - `develop` - integration branch
 - `feature/*` - feature branches per feature block
 - `release/*` - release branches for 0.1.0 (MVP) and 1.0.0
+
+## Feature: Catalog and search (FR1, FR2, FR18)
+
+Scope:
+- FR1 – basic catalog of digital goods with categories and pagination.
+- FR2 – search by product name and description.
+- FR18 – advanced filters (price range, platform, region).
+
+YouTrack:
+- Epics: KUP-1 (Catalog), KUP-2 (Search).
+- Tasks: KUP-10..KUP-19 – backend API, UI, filters.
+
+Sprint: 1  
+Planned release: 0.1.0 (MVP)  
+Git branch: `feature/catalog-search`
