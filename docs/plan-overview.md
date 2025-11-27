@@ -51,3 +51,19 @@ Sprint: 1
 Planned release: 0.1.0 (MVP)  
 Git branch: `feature/auth-profile`
 
+## Feature: Product card and checkout (FR5, FR6, FR7, FR8, FR12)
+
+Scope:
+- FR5 – product card with description, images, price, platform and region.
+- FR6 – purchase flow for a single product.
+- FR7 – applying and validating promo codes.
+- FR8 – checkout page (contact data, payment method).
+- FR12 – delivery method selection inside checkout.
+
+YouTrack:
+- Epics: KUP-5 (Product card), KUP-6 (Checkout).
+- Tasks: KUP-30..KUP-49 – payment integration, promo codes, delivery options.
+
+Sprint: 2  
+Planned release: 0.1.0 (MVP)  
+Git branch: `feature/product-checkout`
